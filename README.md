@@ -1,5 +1,5 @@
 # Console-block-blast
-What's the version of block blast that can be copy and pasted into Google inspector console
+a version of block blast that can be copy and pasted into Google inspector console
 # Console Block Blast
 
 A polished Block Blast-inspired game that you can paste directly into the browser console.
